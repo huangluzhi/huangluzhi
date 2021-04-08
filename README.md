@@ -30,7 +30,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=huangluzhi&theme=tokyonight&show_icons=true">](https://huangluzhi.github.io/)
 
-- 🔭 I’m currently study on [BIT](https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology)
+- 🔭 I’m currently study at [BIT](https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology)
 - ⚡ Fun fact: Fun is everywhere here
 - 🌱 Love & Peace~
  <br /><br /><br /><br /><br /><br />
