@@ -1,4 +1,4 @@
-### Hi, Luzhi here 👋
+### Hi, [Luzhi](https://huangluzhi.github.io/) here 👋
 
 <!--
 - 🔭 I’m currently working on ...
